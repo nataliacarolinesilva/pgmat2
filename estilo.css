@@ -1,0 +1,206 @@
+
+
+
+
+
+
+
+
+
+
+
+.desktop-1 {
+    background: #020202;
+    border:0px;
+    width: 1900px;
+    height: 900px;
+    position: relative;
+    overflow: hidden;
+  }
+  .rectangle-7 {
+    background: linear-gradient(
+      180deg,
+      rgba(0, 225, 225, 1) 56.77083134651184%,
+      rgba(255, 173, 247, 1) 67.1875%,
+      rgba(118, 216, 210, 1) 100%
+    );
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  
+  }
+  .ellipse-1 {
+    border-radius: 50%;
+    width: 237px;
+    height: 237px;
+    position: absolute;
+    left: 745px;
+    top: 280px;
+  }
+  .ellipse-3 {
+    border-radius: 50%;
+    width: 237px;
+    height: 237px;
+    position: absolute;
+    left: 1175px;
+    top: 280px;
+  }
+  .ellipse-2 {
+    border-radius: 50%;
+    width: 237px;
+    height: 237px;
+    position: absolute;
+    left: 350px;
+    top: 280px;
+  }
+  .ellipse-6 {
+    border-radius: 50%;
+    width: 237px;
+    height: 237px;
+    position: absolute;
+    left: 527px;
+    top: 645px;
+  }
+  .ellipse-4 {
+    border-radius: 50%;
+    width: 237px;
+    height: 237px;
+    position: absolute;
+    left: 1450px;
+    top: 645px;
+  }
+  .ellipse-5 {
+    border-radius: 50%;
+    width: 237px;
+    height: 237px;
+    position: absolute;
+    left: 957px;
+    top: 645px;
+  }
+  .favoritos {
+    color: linear-gradient(
+      180deg,
+      rgba(173, 0, 255, 1) 39.57333564758301%,
+      rgba(5, 0, 255, 1) 39.58333432674408%,
+      rgba(255, 255, 255, 0.73) 51.5625%,
+      rgba(0, 255, 194, 0.42) 73.95833134651184%,
+      rgba(0, 0, 0, 0) 100%
+    );
+  
+    background: linear-gradient(180deg, #AD00FF 39.57%, #0500FF 39.58%, rgba(255, 255, 255, 0.73) 51.56%, rgba(0, 255, 194, 0.42) 73.96%, rgba(0, 0, 0, 0.00) 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+    text-align: center;
+    font: 400 210px "Gidugu", sans-serif; 
+    position: absolute;
+    left: 175px;
+    top: 470px;
+    width: 1694px;
+  }
+  .comida {
+    color: #000000;
+    text-align: right;
+    font: 400 48px "Gidugu", sans-serif;
+    position: absolute;
+    left: 652px;
+    top: 393px;
+  }
+  .filme {
+      color: #000000;
+      text-align: right;
+      font: 400 48px "Gidugu", sans-serif;
+      position: absolute;
+      left: 835px;
+      top: 932px;
+  }
+  .hobbie {
+    color: #000000;
+    text-align: right;
+    font: 400 48px "Gidugu", sans-serif;
+    position: absolute;
+    left: 1066px;
+    top: 307px;
+  }
+  .mat-ria {
+    color: #000000;
+    text-align: right;
+    font: 400 48px "Gidugu", sans-serif;
+    position: absolute;
+    left: 385px;
+    top: 940px;
+    width: 166px;
+    height: 74px;
+  }
+  .jogo {
+    color: #000000;
+    text-align: right;
+    font: 400 48px "Gidugu", sans-serif;
+    position: absolute;
+    left: 175px;
+    top: 393px;
+    width: 180px;
+    height: 66px;
+  }
+  .anime {
+    color: #000000;
+    text-align: right;
+    font: 400 48px "Gidugu", sans-serif;
+    position: absolute;
+    left: 1166px;
+    top: 250px;
+  }
+  
+  .ol-meu-nome-jo-o-victor-moro-em-goioere-tenho-5-gatos-em-casa-adoro-plantas-estudo-no-meu-cl-gio-desdo-9-ano-sendo-agora-estando-no-2-ano-do-novo-ensino-m-dio {
+    color: #ffffff;
+    text-align: center;
+    font: 400 36px "Gidugu", sans-serif;
+    position: absolute;
+    left: 333px;
+    bottom: 700px;
+  width: 960px;
+  }
+  
+  
+  .botao{
+  width: 200px;
+  
+  
+    position: absolute;
+    left: 100px;
+    top: 33px;
+  
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  body{
+   
+   max-width:100% ;
+   height: 100%;
+  margin: 0px;
+  position: absolute;
+  
+  border: 10px;
+  
+  }
+  
+  img{
+  
+  width:100% ;
+  
+  border-radius: 20px;
+  
+  }
